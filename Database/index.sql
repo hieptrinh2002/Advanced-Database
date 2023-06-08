@@ -1,0 +1,18 @@
+
+USE Ql_DATHANG_BANHANG
+go
+
+create index LOGIN
+on TAIKHOAN(TEN_DANG_NHAP, MAT_KHAU, LOAI_TK, TRANG_THAI)
+
+create index DH_KH
+on DONDATHANG(MA_TAI_XE, TINH_TRANG)
+include(MA_KHACH_HANG)
+
+go
+create index DDH
+on DONDATHANG(MA_CHI_NHANH)
+
+go
+create index CH_CNCH
+ON CHINHANH(MA_CUA_HANG)

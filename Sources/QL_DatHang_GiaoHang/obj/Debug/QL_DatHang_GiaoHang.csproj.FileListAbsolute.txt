@@ -1,0 +1,112 @@
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe.config
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.pdb
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_main.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Properties.Resources.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.GenerateResource.cache
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.exe
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.pdb
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_ThongTinChiTiet.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_QuanLyHopDong.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csprojAssemblyReference.cache
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe.config
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.pdb
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csprojAssemblyReference.cache
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Admin.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_CH.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_KH.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Login.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_main.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_QuanLyHopDong.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_ThongTinChiTiet.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Properties.Resources.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.GenerateResource.cache
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.exe
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.pdb
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.CuaHang.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DS_Mon.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CapNhat_KH.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CH_KH.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DH_KH.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_khachhang.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_thongtinKH.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CN_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CTDon_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DDN_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DSDon_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_main_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_ThongTin_TX.resources
+D:\Hệ quản trị CSDL\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_xemDSmon.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe.config
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.pdb
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csprojAssemblyReference.cache
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Admin.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.CuaHang.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DS_Mon.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CapNhat_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CH_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DH_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_khachhang.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_thongtinKH.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_xemDSmon.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_CH.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Login.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_main.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_QuanLyHopDong.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_ThongTinChiTiet.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Properties.Resources.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CN_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CTDon_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DDN_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DSDon_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_main_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_ThongTin_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.GenerateResource.cache
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.CoreCompileInputs.cache
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.exe
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.pdb
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_ThongKe.resources
+D:\Cơ sở dữ liệu nâng cao\code\HQTCSDL - Copy\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_xem_mon_dat.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe.config
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.exe
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\bin\Debug\QL_DatHang_GiaoHang.pdb
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csprojAssemblyReference.cache
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Admin.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.CuaHang.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DS_Mon.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CapNhat_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CH_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DH_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_khachhang.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_thongtinKH.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_xemDSmon.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_xem_mon_dat.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_CH.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_KH.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.DKi_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Login.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_main.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_QuanLyHopDong.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_ThongTinChiTiet.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.NhanVien_ThongKe.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.Properties.Resources.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CN_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_CTDon_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DDN_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_DSDon_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_main_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.form_ThongTin_TX.resources
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.GenerateResource.cache
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.csproj.CoreCompileInputs.cache
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.exe
+D:\Cơ sở dữ liệu nâng cao\code\CSDLNC\QL_DatHang_GiaoHang\obj\Debug\QL_DatHang_GiaoHang.pdb
